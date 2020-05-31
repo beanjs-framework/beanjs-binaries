@@ -6,6 +6,4 @@
 * [视频教程](https://docs.beanjs.com)
 
 
-## 固件
-
-- nano(2v05.43)
+[更新日志](./changelog.md)
