@@ -4,3 +4,8 @@
 
 * [官方网站](https://www.beanjs.com)
 * [视频教程](https://docs.beanjs.com)
+
+
+## 固件
+
+- nano(2v05.43)
