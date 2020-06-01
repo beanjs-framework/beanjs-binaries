@@ -4,6 +4,4 @@
 
 * [官方网站](https://www.beanjs.com)
 * [视频教程](https://docs.beanjs.com)
-
-
-[更新日志](./changelog.md)
+* [更新日志](./changelog.md)
